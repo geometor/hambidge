@@ -1,0 +1,50 @@
+{
+  "hambidge:1920-diagonal": {
+    "author": "Jay Hambidge",
+    "work": "The Diagonal: An Illustrated Monthly Magazine Devoted to the Explanation of the Rediscovered Principles of Symmetry and Proportion in Nature and to the Application of Them to Modern Art and Design",
+    "locus": "Vol. I, Nos. 1–12 (Nov. 1919 – Oct. 1920), 232 pp.",
+    "publisher": "New Haven: Yale University Press",
+    "year": 1920,
+    "note": "Primary public-domain serial source of Hambidge's Elements of Dynamic Symmetry lessons: sunflower phyllotaxis, root-rectangles (√1–√5), reciprocal diagonals, and whirling squares."
+  },
+  "hambidge:1920-vase": {
+    "author": "Jay Hambidge",
+    "work": "Dynamic Symmetry: The Greek Vase",
+    "locus": "xvi + 161 pp., 16 plates",
+    "publisher": "New Haven: Yale University Press",
+    "year": 1920,
+    "note": "Hambidge's foundational monograph demonstrating dynamic symmetry in classical Greek pottery, kylikes, and amphorae via root-five and whirling-square area dissection."
+  },
+  "church:1904": {
+    "author": "Arthur Harry Church",
+    "work": "On the Relation of Phyllotaxis to Mechanical Laws",
+    "locus": "Parts I–III, 353 pp., 112 plates",
+    "publisher": "London & Oxford: Williams & Norgate",
+    "year": 1904,
+    "note": "Exhaustive botanical monograph with precision logarithmic spiral diagrams of sunflower capitula (Helianthus annuus) providing empirical data for both Thompson (Ch. XIV) and Hambidge (Lesson I)."
+  },
+  "euclid:elements": {
+    "author": "Euclid of Alexandria",
+    "work": "The Thirteen Books of Euclid's Elements",
+    "locus": "3 vols., translated from the text of Heiberg with introduction and commentary by Sir Thomas L. Heath (2nd ed. rev.)",
+    "publisher": "Cambridge: at the University Press",
+    "year": 1926,
+    "note": "Axiomatic source of Book I Prop. 47 (Pythagoras), Book II Def. 2 (gnomon), Book II Prop. 11 (golden cut), Book VI Prop. 30 (extreme and mean ratio), Book X Def. 2 (dynamei symmetroi), and Book XIII (regular polyhedra)."
+  },
+  "kepler:1611": {
+    "author": "Johannes Kepler",
+    "work": "Strena seu de Nive Sexangula (A New Year's Gift of Hexagonal Snow)",
+    "locus": "24 pp.",
+    "publisher": "Frankfurt am Main: Gottfried Tampach",
+    "year": 1611,
+    "note": "Celebrated treatise linking hexagonal snow crystallization, bee's cell close-packing, the rhombic dodecahedron, and the golden ratio as a 'measure of gold'."
+  },
+  "thompson:1917": {
+    "author": "D'Arcy Wentworth Thompson",
+    "work": "On Growth and Form",
+    "locus": "xv + 793 pp., 408 figs.",
+    "publisher": "Cambridge: at the University Press",
+    "year": 1917,
+    "note": "Landmark synthesis of mathematical morphology, surface tension, logarithmic spirals, Hero's gnomon, and coordinate transformations."
+  }
+}

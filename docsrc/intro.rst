@@ -1,0 +1,1 @@
+The mission of this project is to capture a semantic digital library of the works of **Jay Hambidge** — the theorist of design whose Dynamic Symmetry uncovered root rectangles, whirling squares, and commensurable area proportions in Greek art and phyllotaxis.

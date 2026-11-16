@@ -1,0 +1,44 @@
+{
+  "hambidge": {
+    "name": "Jay Hambidge",
+    "dates": "1867 – 1924",
+    "role": "Theorist of Design & Geometer of Dynamic Symmetry",
+    "bio": "Canadian-American artist and geometric scholar who rediscovered the Greek canon of proportional areas based on Euclidean commensurability in square (Elements Book X Def. 2), publishing The Diagonal (1919–1920) and Dynamic Symmetry: The Greek Vase (1920) at Yale University Press."
+  },
+  "church": {
+    "name": "Arthur Harry Church",
+    "dates": "1865 – 1937",
+    "role": "British Botanist & Morphological Illustrator (Oxford)",
+    "bio": "Author of On the Relation of Phyllotaxis to Mechanical Laws (1904), whose precision diagrams of intersecting orthogonal logarithmic spirals in sunflower capitula (34/55, 55/89, 89/144) directly inspired both Chapter XIV of Thompson (1917) and Lesson I of Jay Hambidge's Dynamic Symmetry (1919–1920)."
+  },
+  "euclid": {
+    "name": "Euclid of Alexandria",
+    "dates": "fl. c. 300 BC",
+    "role": "Alexandrian Greek Mathematician (Author of the Elements)",
+    "bio": "Provides the axiomatic foundation of Dynamic Symmetry: Book I Prop. 47 (Pythagoras's Theorem), Book II Def. 2 (gnomon), Book II Prop. 11 & Book VI Prop. 30 (extreme and mean ratio φ), and especially Book X Def. 2 (magnitudes commensurable in square, δυνάμει σύμμετροι)—the literal Greek source of Hambidge's 'dynamic' proportion."
+  },
+  "kepler": {
+    "name": "Johannes Kepler",
+    "dates": "1571 – 1630",
+    "role": "German Astronomer, Mathematician & Natural Philosopher",
+    "bio": "Celebrated the golden ratio alongside Pythagoras's Theorem as the two great treasures of geometry in Strena seu de Nive Sexangula (1611) and Mysterium Cosmographicum (1596), quoted by Hambidge in Lesson II of The Elements of Dynamic Symmetry."
+  },
+  "thompson": {
+    "name": "Sir D'Arcy Wentworth Thompson",
+    "dates": "1860 – 1948",
+    "role": "Scottish Mathematical Biologist & Classical Scholar (St Andrews)",
+    "bio": "Author of On Growth and Form (Cambridge University Press, 1917), whose analysis of equiangular spirals, gnomonic growth in molluscan shells, and botanical phyllotaxis directly complements Hambidge's synthetic dynamic symmetry and root rectangles."
+  },
+  "plato": {
+    "name": "Plato",
+    "dates": "c. 428 – 348 BC",
+    "role": "Athenian Philosopher & Founder of the Academy",
+    "bio": "In the Theaetetus (147d–148b), records Theodorus of Cyrene's demonstration of the linear incommensurability of roots from √3 to √17 and introduces the concept of dynamis (square power) from which commensurability in square derives."
+  },
+  "phiarchitect": {
+    "name": "phi ARCHITECT",
+    "dates": "contemporary",
+    "role": "Founder of GEOMETOR & Digital Scriptorium Curator",
+    "bio": "Creator of the GEOMETOR Digital Scriptorium editions, exact symbolic geometry models, and semantic cross-repository apparatus."
+  }
+}

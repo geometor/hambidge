@@ -1,0 +1,80 @@
+{
+  "dynamic-symmetry": {
+    "headword": "Dynamic Symmetry",
+    "language": "English (Jay Hambidge, 1919)",
+    "translation": "Active Proportional Symmetry Commensurable in Square",
+    "definition": "Proportional architecture derived from organic growth (phyllotaxis and equiangular shells) and Euclidean commensurability in square, built upon root-rectangles (√2, √3, √5) and the whirling-square golden rectangle (φ ≈ 1.6180...) whose diagonals and reciprocals subdivide areas into self-similar gnomonic parts."
+  },
+  "static-symmetry": {
+    "headword": "Static Symmetry",
+    "language": "English (Jay Hambidge, 1919)",
+    "translation": "Passive Symmetry Based on Fixed Units and Regular Polygons",
+    "definition": "Symmetry based on linear commensurability, regular polygons (square, equilateral triangle, hexagon, octagon), and static modular repetition—characteristic of Roman, Byzantine, Gothic, and Renaissance decorative art, contrasted by Hambidge with the active dynamic proportion of classical Greek design and living growth."
+  },
+  "commensurable-in-square": {
+    "headword": "δυνάμει σύμμετροι (dynamei symmetroi)",
+    "language": "Greek (Euclid Book X, Def. 2)",
+    "translation": "Commensurable in Square / Commensurable in Power",
+    "definition": "Magnitudes whose linear lengths are irrational with respect to one another (such as 1 and √2, √3, √5) yet whose squares (quadrances) have exact integer ratios (1 : 2 : 3 : 4 : 5). Identified by Jay Hambidge (1919–1920) as the exact classical origin of 'Dynamic Symmetry'."
+  },
+  "root-rectangle": {
+    "headword": "Root Rectangle",
+    "language": "English (Jay Hambidge, 1919)",
+    "translation": "Dynamic Rectangle with Aspect Ratio 1 : √n",
+    "definition": "A rectangle whose side length is the square root of an integer (√2, √3, √4 = 2, √5) constructed on a unit end. Successive root rectangles unfold by swinging the diagonal of each preceding rectangle down to the extended baseline, incrementing the side quadrance by exact integer steps Q = 1 → 2 → 3 → 4 → 5."
+  },
+  "reciprocal-rectangle": {
+    "headword": "Reciprocal Rectangle",
+    "language": "English (Jay Hambidge, 1919)",
+    "translation": "Harmonic Sub-Rectangle with Perpendicular Diagonal",
+    "definition": "A geometrically similar rectangle custom-scaled so that the end of the parent rectangle becomes the side of the reciprocal, having width 1/r for a parent of ratio r. The diagonal of the reciprocal intersects the diagonal of the parent at exact perpendicular spread s = 1 (90°)."
+  },
+  "whirling-square-rectangle": {
+    "headword": "Rectangle of the Whirling Squares",
+    "language": "English (Jay Hambidge, 1919)",
+    "translation": "Golden Rectangle with Ratio 1 : φ",
+    "definition": "The rectangle of aspect ratio 1 : φ (φ = (1 + √5)/2 ≈ 1.618034). Detaching an exact square leaves a reciprocal golden rectangle of width 1/φ = φ - 1 ≈ 0.618034; repeated gnomonic square detachment forms a spiral of squares 'whirling' toward the intersection of perpendicular diagonals."
+  },
+  "gnomon": {
+    "headword": "γνώμων (gnōmōn)",
+    "language": "Greek",
+    "translation": "Gnomon / Self-Similar Growth Increment",
+    "definition": "Originally the carpenter's L-square surrounding a square to make a larger square (Aristotle, Categories 15a30; Euclid II Def. 2), generalized by Hero of Alexandria (Def. 58) to any figure whose addition to a given figure leaves the composite figure geometrically similar to the original."
+  },
+  "equiangular-spiral": {
+    "headword": "Equiangular / Logarithmic Spiral",
+    "language": "English / Latin (Spira mirabilis)",
+    "translation": "r = a e^(θ cot α)",
+    "definition": "The planar growth curve studied by Descartes, Bernoulli, and Thompson whose tangent at every point makes a constant angle α with the radius vector OP, so that continuous terminal accretion increases size without altering geometric form."
+  },
+  "phyllotaxis": {
+    "headword": "Phyllotaxis",
+    "language": "Greek / Botanical",
+    "translation": "Leaf-Arrangement along Plant Stems",
+    "definition": "The mathematical arrangement of leaves, scales, and florets around a stem or capitulum (e.g. sunflower seed heads), governed by the golden angle divergence (137° 30′ 28″) and visible intersecting parastichy spiral pairs (34/55, 55/89, 89/144)."
+  },
+  "parastichy": {
+    "headword": "Parastichy",
+    "language": "Greek / Botanical",
+    "translation": "Secondary Visible Spiral in Phyllotaxis",
+    "definition": "One of the prominent visible intersecting contact spirals on a cylindrical plant stem or discoidal flower head, arranged in antagonistic left- and right-winding families whose curve counts form consecutive Fibonacci numbers."
+  },
+  "divergence-angle": {
+    "headword": "Divergence Angle (Phyllotactic)",
+    "language": "English / Botanical",
+    "translation": "Δθ = 360° / φ² ≈ 137° 30′ 28″",
+    "definition": "The azimuthal angular step around the stem axis between consecutively initiated primordia (n and n+1) along the genetic spiral, converging to 360° × (1 - 1/φ) ≈ 137.5077°."
+  },
+  "quadrance": {
+    "headword": "Quadrance",
+    "language": "Rational Trigonometry (N. J. Wildberger)",
+    "translation": "Squared Distance Q(A, B) = (x₂ - x₁)² + (y₂ - y₁)²",
+    "definition": "The fundamental measure of separation in Rational Trigonometry, replacing square-root distances with exact rational values. Root rectangles have consecutive integer quadrances Q = 1, 2, 3, 4, 5."
+  },
+  "spread": {
+    "headword": "Spread",
+    "language": "Rational Trigonometry (N. J. Wildberger)",
+    "translation": "Squared Sine s(l₁, l₂) = sin² θ",
+    "definition": "The fundamental measure of line opening in Rational Trigonometry, replacing angles with exact rational values. Perpendicular lines (such as a rectangle's diagonal and its reciprocal diagonal) have exact spread s = 1."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "work": {
+    "title": "The Elements of Dynamic Symmetry & Dynamic Symmetry: The Greek Vase",
+    "primary_author": "Jay Hambidge",
+    "original_years": [1919, 1920],
+    "edition": "Yale University Press (1919–1920)",
+    "copyright_attestation": "100% Public Domain worldwide and in the United States. This Digital Scriptorium edition derives exclusively from Jay Hambidge's 1919–1920 Yale University Press publications: The Diagonal, Vol. I, Nos. 1–12 (1919–1920, LCCN 20005786), and Dynamic Symmetry: The Greek Vase (1920, LCCN 20017904). Both imprints entered the US public domain by statutory expiration and absence of post-1928 copyright barriers."
+  },
+  "sources": [
+    {
+      "id": "hambidge-1920-diagonal",
+      "work": "The Diagonal: An Illustrated Monthly Magazine Devoted to the Explanation of the Rediscovered Principles of Symmetry and Proportion in Nature and to the Application of Them to Modern Art and Design",
+      "filename": "resources/sources/ia_diagonal1191unse_hambidge_1920.txt",
+      "sha256": "ad4d6930599438401c5ce377dfbc03d0099e41326594eed3c253175424495a07",
+      "author": "Jay Hambidge (ed.)",
+      "publisher": "New Haven: Yale University Press / London: Humphrey Milford, Oxford University Press",
+      "year": 1920,
+      "format": "Internet Archive OCR txt derived from University of Illinois Library scan (LCCN 20005786)",
+      "archive_url": "https://archive.org/details/diagonal1191unse",
+      "notes": "Original 1919–1920 Yale University Press serial publication containing Jay Hambidge's 'The Elements of Dynamic Symmetry' lessons (later collected posthumously in book form in 1926), including sunflower phyllotaxis (after A. H. Church), root rectangles (sqrt(1) to sqrt(5)), reciprocal rectangles, and the whirling-square golden rectangle."
+    },
+    {
+      "id": "hambidge-1920-vase",
+      "work": "Dynamic Symmetry: The Greek Vase",
+      "filename": "resources/sources/ia_dynamicsymmetry00hamb_yale_1920.txt",
+      "sha256": "23a471123bb91d03d00dc304409ee4ec95d56e68c9563d4065f1dabbf7ead0ab",
+      "author": "Jay Hambidge",
+      "publisher": "New Haven: Yale University Press / London: Humphrey Milford, Oxford University Press",
+      "year": 1920,
+      "format": "Internet Archive OCR txt derived from Boston Public Library scan (LCCN 20017904)",
+      "archive_url": "https://archive.org/details/dynamicsymmetry00hamb_yale",
+      "notes": "First book-length monograph by Jay Hambidge (Yale University Press, 1920), establishing static vs. dynamic symmetry, leaf-distribution and shell spirals, Euclidean commensurability in square (Book X), and root-five / whirling-square harmonic analysis."
+    }
+  ]
+}
