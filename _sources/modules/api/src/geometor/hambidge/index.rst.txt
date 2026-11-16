@@ -1,0 +1,239 @@
+src.geometor.hambidge
+=====================
+
+.. py:module:: src.geometor.hambidge
+
+.. autoapi-nested-parse::
+
+   Public package interface for ``geometor.hambidge``.
+
+
+
+Submodules
+----------
+
+.. toctree::
+   :maxdepth: 1
+
+   /modules/api/src/geometor/hambidge/__main__/index
+   /modules/api/src/geometor/hambidge/app/index
+   /modules/api/src/geometor/hambidge/model/index
+
+
+Attributes
+----------
+
+.. autoapisummary::
+
+   src.geometor.hambidge.__version__
+
+
+Classes
+-------
+
+.. autoapisummary::
+
+   src.geometor.hambidge.RootRectangle
+   src.geometor.hambidge.WhirlingSquareRectangle
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   src.geometor.hambidge.main
+   src.geometor.hambidge.run
+   src.geometor.hambidge.get_root_rectangles
+   src.geometor.hambidge.verify_reciprocal_orthogonality
+
+
+Package Contents
+----------------
+
+.. py:function:: main() -> None
+
+   Console-script entry point.
+
+
+.. py:function:: run(argv: collections.abc.Sequence[str] | None = None) -> int
+
+   Execute the command-line workflow.
+
+   :param argv: Optional sequence of CLI arguments (defaults to empty list when ``None``).
+
+   :returns: Exit code (``0`` on success).
+
+
+.. py:class:: RootRectangle
+
+   Exact symbolic specification for a Hambidge root-n rectangle (1 : √n).
+
+   In Euclidean geometry (Book X, Def. 2), the end and side of a root-n rectangle
+   are linearly incommensurable (for non-square n), yet strictly commensurable in square
+   (dynamei symmetroi). In Wildberger's Rational Trigonometry, their quadrances
+   are consecutive integers Q = 1, 2, 3, 4, 5.
+
+
+   .. py:attribute:: n
+      :type:  int
+
+
+   .. py:method:: __post_init__() -> None
+
+
+   .. py:property:: quadrance_end
+      :type: int
+
+
+      Quadrance (squared length) of the unit end.
+
+
+   .. py:property:: quadrance_side
+      :type: int
+
+
+      Q_n = n.
+
+      :type: Quadrance (squared length) of the horizontal side
+
+
+   .. py:property:: quadrance_diagonal
+      :type: int
+
+
+      Q_diag = 1 + n.
+
+      :type: Quadrance of the main diagonal by Pythagoras's theorem
+
+
+   .. py:property:: reciprocal_count
+      :type: int
+
+
+      Number of congruent reciprocal root-n rectangles that tile the parent rectangle.
+
+
+   .. py:property:: reciprocal_side_quadrance
+      :type: fractions.Fraction
+
+
+      Q_rec = 1/n.
+
+      :type: Quadrance of the reciprocal width
+
+
+   .. py:property:: diagonal_spread
+      :type: int
+
+
+      Rational spread between main diagonal and reciprocal diagonal (1 = 90° perpendicular).
+
+
+   .. py:property:: aspect_ratio_str
+      :type: str
+
+
+      Exact radical notation for aspect ratio.
+
+
+   .. py:property:: diagonal_dot_product
+      :type: int
+
+
+      Dot product of main diagonal (√n, 1) and reciprocal diagonal (1/√n, -1).
+
+      (√n)(1/√n) + (1)(-1) = 1 - 1 = 0, identically for all n.
+
+
+   .. py:method:: describe() -> str
+
+      Human-readable exact geometric summary.
+
+
+
+.. py:class:: WhirlingSquareRectangle
+
+   Exact specification of the Rectangle of the Whirling Squares (Golden Rectangle 1 : φ).
+
+   A rectangle of aspect ratio 1 : φ where φ = (1 + √5)/2.
+   Its reciprocal has width 1/φ = φ - 1 = (√5 - 1)/2.
+   Detaching repeated squares produces an infinite sequence of whirling gnomons
+   converging to the intersection pole (eye) of perpendicular diagonals.
+
+
+   .. py:attribute:: name
+      :type:  ClassVar[str]
+      :value: 'Rectangle of the Whirling Squares'
+
+
+
+   .. py:attribute:: ratio_str
+      :type:  ClassVar[str]
+      :value: '1 : φ'
+
+
+
+   .. py:attribute:: phi_exact
+      :type:  ClassVar[str]
+      :value: '(1 + √5) / 2'
+
+
+
+   .. py:attribute:: reciprocal_width_exact
+      :type:  ClassVar[str]
+      :value: '(√5 - 1) / 2'
+
+
+
+   .. py:attribute:: gnomon_shape
+      :type:  ClassVar[str]
+      :value: 'unit square (1 × 1)'
+
+
+
+   .. py:attribute:: pole_x_exact
+      :type:  ClassVar[str]
+      :value: '1 / √5'
+
+
+
+   .. py:attribute:: pole_y_exact
+      :type:  ClassVar[str]
+      :value: '(5 - √5) / 10'
+
+
+
+   .. py:method:: harmonic_identities() -> dict[str, str]
+      :staticmethod:
+
+
+      Exact algebraic identities bridging the √5 rectangle and golden rectangles.
+
+
+
+   .. py:method:: diagonal_spread() -> int
+      :staticmethod:
+
+
+      Rational spread between main diagonal (φ, 1) and reciprocal diagonal (1/φ, -1).
+
+
+
+.. py:function:: get_root_rectangles(max_n: int = 5) -> list[RootRectangle]
+
+   Generate the classical series of root rectangles from √1 to √max_n.
+
+
+.. py:function:: verify_reciprocal_orthogonality(n: int) -> bool
+
+   Algebraic proof that diagonal and reciprocal diagonal meet at spread s = 1 (90°).
+
+   For any root-n rectangle, main vector is (√n, 1) and reciprocal vector is (1/√n, -1).
+   Dot product: (√n)(1/√n) + (1)(-1) = 1 - 1 = 0.
+
+
+.. py:data:: __version__
+   :value: '0.1.0'
+
+
