@@ -18,7 +18,7 @@ Mission
 Books in This Archive
 ---------------------
 
-- **`The Elements of Dynamic Symmetry <https://geometor.github.io/hambidge/dynamic_symmetry/>`_** — The foundational 1920 treatise establishing the geometry of dynamic rectangles, reciprocal proportions, and thematic partitioning in Greek art and nature.
+- `The Elements of Dynamic Symmetry <https://geometor.github.io/hambidge/dynamic_symmetry/>`_ — The foundational 1920 treatise establishing the geometry of dynamic rectangles, reciprocal proportions, and thematic partitioning in Greek art and nature.
 
 Repository Contents
 -------------------
