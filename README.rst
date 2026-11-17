@@ -20,6 +20,16 @@ Books in This Archive
 
 - `The Elements of Dynamic Symmetry <https://geometor.github.io/hambidge/dynamic_symmetry/>`_ — The foundational 1920 treatise establishing the geometry of dynamic rectangles, reciprocal proportions, and thematic partitioning in Greek art and nature.
 
+Python Package & Modules
+------------------------
+
+The ``geometor-hambidge`` Python package (``import geometor.hambidge``) provides the executable symbolic geometry, construction, and compilation modules powering this archive:
+
+- ``model.py`` — Exact symbolic geometry and algebraic foundations of Jay Hambidge's Dynamic Symmetry.
+- ``app.py`` — Command-line interface for ``geometor.hambidge``.
+
+See the `API Reference <https://geometor.github.io/hambidge/modules/>`_ for full module documentation.
+
 Repository Contents
 -------------------
 
