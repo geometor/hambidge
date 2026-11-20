@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "repository": "geometor/hambidge",
+  "edition": "dynamic_symmetry",
+  "description": "Primary-source folio mapping for Jay Hambidge (The Diagonal 1919–1920 & Dynamic Symmetry: The Greek Vase 1920)",
+  "folios": {
+    "Diagonal p. 1": {
+      "default": "https://archive.org/details/diagonal1191unse",
+      "en": "https://archive.org/details/diagonal1191unse"
+    },
+    "Diagonal pp. 3–5": {
+      "default": "https://archive.org/details/diagonal1191unse",
+      "en": "https://archive.org/details/diagonal1191unse"
+    },
+    "Diagonal pp. 15–17": {
+      "default": "https://archive.org/details/diagonal1191unse",
+      "en": "https://archive.org/details/diagonal1191unse"
+    },
+    "Diagonal pp. 18–21": {
+      "default": "https://archive.org/details/diagonal1191unse",
+      "en": "https://archive.org/details/diagonal1191unse"
+    },
+    "Vase pp. 7–8": {
+      "default": "https://archive.org/details/dynamicsymmetry00hamb_yale",
+      "en": "https://archive.org/details/dynamicsymmetry00hamb_yale"
+    }
+  }
+}
