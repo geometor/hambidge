@@ -8,6 +8,10 @@
 Jay Hambidge
 ============
 
+.. image:: _static/medallion.svg
+   :alt: Jay Hambidge Medallion
+   :class: repo-medallion-hero
+
 The works of :person:`Jay Hambidge <hambidge>` (1867–1924) uncovered the geometric grammar of dynamic symmetry, demonstrating how root rectangles, reciprocal shapes, and logarithmic spirals govern classical Greek design and organic growth. Within the interconnected `GEOMETOR <https://geometor.com/books/>`_ semantic digital archive, Hambidge's foundational treatise is liberated from static print bounds—decomposed into addressable semantic units, calibrated vector diagrams, primary-source folio provenance, and cross-corpus citations speaking one shared geometric language.
 
 .. reference-directory::
