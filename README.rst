@@ -3,6 +3,12 @@ GEOMETOR • hambidge
 
 **Visit the Online Archive:** https://geometor.github.io/hambidge/
 
+.. image:: docsrc/_static/logo.png
+   :alt: GEOMETOR • hambidge Medallion
+   :target: https://geometor.github.io/hambidge/
+   :width: 180px
+   :align: center
+
 .. image:: docsrc/_static/figures/fig_golden_gnomon_spiral.svg
    :alt: GEOMETOR • hambidge featured geometric construction
    :target: https://geometor.github.io/hambidge/
