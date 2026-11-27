@@ -71,33 +71,3 @@ Scholarly Apparatus
 * :ref:`People <persons>` — Jay Hambidge, Arthur Harry Church, Euclid, Kepler, D'Arcy Thompson.
 * :ref:`Bibliography <bibliography>` — Yale University Press primary editions and classical sources.
 * :ref:`Glossary <glossary>` — Technical vocabulary of Dynamic Symmetry, root rectangles, reciprocals, gnomons, and phyllotaxis.
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-   :caption: Primary Text
-
-   static_and_dynamic/static_and_dynamic-en
-   plant_phyllotaxis/plant_phyllotaxis-en
-   whirling_squares/whirling_squares-en
-   root_rectangles/root_rectangles-en
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-   :caption: Analytical Summaries
-
-   static_and_dynamic/static_and_dynamic-summary
-   plant_phyllotaxis/plant_phyllotaxis-summary
-   whirling_squares/whirling_squares-summary
-   root_rectangles/root_rectangles-summary
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-   :caption: Scholarly Notes & Concordance
-
-   static_and_dynamic/static_and_dynamic-notes
-   plant_phyllotaxis/plant_phyllotaxis-notes
-   whirling_squares/whirling_squares-notes
-   root_rectangles/root_rectangles-notes
