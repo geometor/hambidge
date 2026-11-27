@@ -12,7 +12,7 @@ Jay Hambidge
    :alt: Jay Hambidge Medallion
    :class: repo-medallion-hero
 
-**Jay Hambidge** (1867–1924) rediscovered the proportional grammar of *Dynamic Symmetry*, showing how root rectangles ($\sqrt{2}, \sqrt{3}, \sqrt{4}, \sqrt{5}$), orthogonal reciprocals, and the rectangle of the whirling squares unite Greek vase and temple design with the phyllotaxis of living plants. Rather than measuring shapes by linear fractions, Hambidge illuminated the ancient insight of commensurability in square. This digital archive presents his foundational 1919–1920 *Diagonal* lessons and *Greek Vase* synthesis in a synchronized three-track edition with calibrated vector figures.
+**Jay Hambidge** (1867–1924) rediscovered the proportional grammar of *Dynamic Symmetry*, showing how root rectangles (:math:`\sqrt{2}, \sqrt{3}, \sqrt{4}, \sqrt{5}`), orthogonal reciprocals, and the rectangle of the whirling squares unite Greek vase and temple design with the phyllotaxis of living plants. Rather than measuring shapes by linear fractions, Hambidge illuminated the ancient insight of commensurability in square. This digital archive presents his foundational 1919–1920 *Diagonal* lessons and *Greek Vase* synthesis in a synchronized three-track edition with calibrated vector figures.
 
 Books in This Collection
 ------------------------
@@ -52,7 +52,7 @@ Key Features
 
       **Root Rectangles & Whirling Gnomons**
 
-      Calibrated vector plates illustrate the unfolding of $\sqrt{1}$ through $\sqrt{5}$ rectangles, orthogonal reciprocal diagonals, and infinite logarithmic spirals.
+      Calibrated vector plates illustrate the unfolding of :math:`\sqrt{1}` through :math:`\sqrt{5}` rectangles, orthogonal reciprocal diagonals, and infinite logarithmic spirals.
 
    .. container:: home-feature-card
 

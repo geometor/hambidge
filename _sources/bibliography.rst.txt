@@ -16,7 +16,7 @@ Bibliography
 **Jay Hambidge** — *The Diagonal: An Illustrated Monthly Magazine Devoted to the Explanation of the Rediscovered Principles of Symmetry and Proportion in Nature and to the Application of Them to Modern Art and Design*
    Vol. I, Nos. 1–12 (Nov. 1919 – Oct. 1920), 232 pp., New Haven: Yale University Press, 1920.
 
-   Primary public-domain serial source of Hambidge's *Elements of Dynamic Symmetry* lessons: sunflower phyllotaxis, root-rectangles ($\sqrt{1}\text{–}\sqrt{5}$), reciprocal diagonals, and whirling squares.
+   Primary public-domain serial source of Hambidge's *Elements of Dynamic Symmetry* lessons: sunflower phyllotaxis, root-rectangles (:math:`\sqrt{1}\text{–}\sqrt{5}`), reciprocal diagonals, and whirling squares.
 
 .. _cite-hambidge-1920-vase:
 

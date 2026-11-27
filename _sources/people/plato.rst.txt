@@ -12,7 +12,7 @@ Plato
 =====
 
 **Plato** (c. 428 – 348 BC) — *Athenian Philosopher & Founder of the Academy*
-   In the *Theaetetus* (147d–148b), records Theodorus of Cyrene's demonstration of the linear incommensurability of roots from $\sqrt{3}$ to $\sqrt{17}$ and introduces the concept of *dynamis* (square power) from which commensurability in square derives.
+   In the *Theaetetus* (147d–148b), records Theodorus of Cyrene's demonstration of the linear incommensurability of roots from :math:`\sqrt{3}` to :math:`\sqrt{17}` and introduces the concept of *dynamis* (square power) from which commensurability in square derives.
 
 * **GEOMETOR Website**: `Plato <https://geometor.github.io/plato/>`_
 * **GitHub Repository**: `https://github.com/geometor/plato <https://github.com/geometor/plato>`_
