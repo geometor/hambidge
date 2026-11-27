@@ -1,3 +1,4 @@
+:type: notes
 :layout: book
 
 .. _static-and-dynamic-notes:

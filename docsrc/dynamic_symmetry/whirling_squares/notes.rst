@@ -1,3 +1,4 @@
+:type: notes
 :layout: book
 
 .. _whirling-squares-notes:

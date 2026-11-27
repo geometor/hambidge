@@ -34,8 +34,8 @@ Books in This Collection
       .. container:: home-actions
 
          * :doc:`Open Dynamic Symmetry → <dynamic_symmetry/index>`
-         * :doc:`Static & Dynamic Symmetry → <dynamic_symmetry/static_and_dynamic/static_and_dynamic-en>`
-         * :doc:`The Whirling Squares → <dynamic_symmetry/whirling_squares/whirling_squares-en>`
+         * :doc:`Static & Dynamic Symmetry → <dynamic_symmetry/static_and_dynamic/index>`
+         * :doc:`The Whirling Squares → <dynamic_symmetry/whirling_squares/index>`
 
 Key Features
 ------------

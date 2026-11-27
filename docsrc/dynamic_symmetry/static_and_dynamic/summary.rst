@@ -1,3 +1,4 @@
+:type: summary
 :layout: book
 
 .. _static-and-dynamic-summary:

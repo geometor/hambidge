@@ -1,3 +1,4 @@
+:type: notes
 :layout: book
 
 .. _plant-phyllotaxis-notes:

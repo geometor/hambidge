@@ -1,3 +1,4 @@
+:order: 1
 :layout: book
 
 .. _static-and-dynamic-en:

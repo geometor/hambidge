@@ -1,3 +1,4 @@
+:type: summary
 :layout: book
 
 .. _plant-phyllotaxis-summary:
